@@ -12,12 +12,7 @@
         <module>jianguoBase</module>
     </modules>
     <packaging>pom</packaging>
-    <parent>
-        <groupId>org.springframework.boot</groupId>
-        <artifactId>spring-boot-starter-parent</artifactId>
-        <version>1.5.15.BUILD-SNAPSHOT</version>
-        <relativePath/> <!-- lookup parent from repository -->
-    </parent>
+
     <dependencies>
         <dependency>
             <groupId>org.springframework.boot</groupId>
